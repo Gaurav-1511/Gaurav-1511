@@ -4,8 +4,7 @@
 I'm a Full Stack Developer passionate about building scalable web applications and learning new technologies.  
 Currently exploring **React**, **Node.js**, and **Cloud Platforms**.
 
-- 🔭 I’m currently working on: **Netflix Clone & Personal Portfolio**
-- 🌱 I’m currently learning: **Node.js**
+- 🌱 I’m currently learning: **React.js & Node.js**
 - 💬 Ask me about: **Web Development, JavaScript, React**
 - ⚡ Fun fact: I love solving coding challenges and building side projects!
 
