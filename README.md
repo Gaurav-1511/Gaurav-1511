@@ -15,7 +15,7 @@ Currently exploring **React**, **Node.js**, and **Cloud Platforms**.
 **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
 **Backend:** Node.js, Express, Firebase  
 **Database:** MongoDB, Firebase Realtime DB  
-**Tools & Platforms:** Vs code , Git, GitHub, Vercel, Firebase Hosting, Postman
+**Tools & Platforms:** Vs code , Git, GitHub, Vercel, Firebase Hosting
 
 --
 
